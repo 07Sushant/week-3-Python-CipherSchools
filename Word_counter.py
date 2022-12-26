@@ -13,3 +13,4 @@ def Word_Counter(s):
         count[char] = s.count(char)
     return count
 print(Word_Counter("SuShant"))
+# Sushant
