@@ -15,5 +15,3 @@ def reverse_str(l):
         new_list.append(name[::-1])
     return new_list
 print(reverse_str(['ABC', 'XYZ', "VUT"]))
-
-# Sushant

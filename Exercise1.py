@@ -13,5 +13,3 @@ def cube_finder(n):
         cube[i] = i**3
     return cube
 print(cube_finder(x))
-
-# Sushant
